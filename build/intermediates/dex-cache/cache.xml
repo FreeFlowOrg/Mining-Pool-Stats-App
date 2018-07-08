@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7e1c24cafb4c2306ae2a5d0ed7d7e5d9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.2\bfc967828daffc35ba01c9ee204d98b664930a0f\constraint-layout-solver-1.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19fb32ffbb7adf7a8301fb2d05510b0b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\01941a0c35e14e25e48faff6c40c2ef2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a6cc35c15b6f7ed34c6d988d785ca30c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d5355c2edbf875b05d767eae57f3dca6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b1d1ff735f5e8fc31234341b71b013aa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\01723ef5ffe76d212e9c84aa3179ab95\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\4625b4b69af672918568d03441162eff\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5caf1e92528322bb15586fa8896e64bc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8173236dd476c8fcc3dc6e6a0d9674f3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\96e0343e879cebeb5a579c544a8d37a1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SPR\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a99aa5c633ecb76d6900a6d4ea762866\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="C:\Users\SPR\Desktop\SimpleWebAPI-master\MiningPoolStatus\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+
+</items>
