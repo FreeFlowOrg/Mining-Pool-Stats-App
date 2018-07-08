@@ -7,4 +7,6 @@ We look at making this app a one stop solution for you to check everything about
 
 Incase you want to join the pool, please click ![here](http://107.173.118.210:8080/)
 
-In order to download this apk file for the app to set it up on your phone, please click ![here](https://github.com/FreeFlowOrg/Mining-Pool-Stats-App/)
+<b>In order to download this apk file for the app to set it up on your phone, please click ![here](https://github.com/FreeFlowOrg/Mining-Pool-Stats-App/releases).</b>
+
+The current version number of the app is <b>v0.0.1</b>
